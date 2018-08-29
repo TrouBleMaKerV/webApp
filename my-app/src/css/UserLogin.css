@@ -1,0 +1,30 @@
+.form{
+     text-align: left;
+     width :450px;
+     margin-left : 500px;
+ }
+.search {
+    width: 800px;
+    margin-left: 370px;
+}
+.select {
+    width: 120px;
+}
+.el-menu-demo {
+    padding-left:1100px;
+}
+.button {
+    width: 400px;
+}
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+}
+.menu {
+    margin-top: 50px;
+    text-align: center;
+}
+.form-a{
+    text-decoration:none;
+    color:white;
+}

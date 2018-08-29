@@ -1,0 +1,30 @@
+
+.search {
+    width: 800px;
+    margin-left: 370px;
+    margin-top: 110px;
+}
+.select {
+    width: 120px;
+}
+
+.button {
+    width: 400px;
+}
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+}
+.menu {
+    margin-top: 50px;
+    text-align: center;
+}
+.form{
+    text-align: center;
+    width :450px;
+    margin-left : 500px;
+}
+.searchResult{
+    width: 800px;
+    margin-left: 370px;
+}
